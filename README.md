@@ -1,2 +1,2 @@
 # nodejs_study
-costa nodejs study 
+nodejs CRUD study 
